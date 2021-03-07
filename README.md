@@ -1,4 +1,4 @@
 # Python-caesar-cipher
-Encode messages using the Caesar Cipher
+Encode and read messages using the Caesar Cipher
 
 https://repl.it/@BruceWilson/Python-caesar-cipher
